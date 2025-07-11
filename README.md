@@ -5,7 +5,6 @@
   <img src="https://media.discordapp.net/attachments/1390491233238909031/1391693899155898519/noesis_logo_under1mb.png?ex=687170b1&is=68701f31&hm=80eb1a399837099700d5a923c378cbcead7cb3646320afba26ce2e0fd4b331a1&=&format=webp&quality=lossless&width=640&height=640" width="30" alt="Noesis 로고" style="vertical-align:middle; margin-right:10px;"/>
 Team Noesis
 </h1>
-프로젝트 명: CarInfo Hub for Business
 <table align="center">
  <tr>
     <td align="center" style="padding:11px;">
@@ -41,7 +40,7 @@ Team Noesis
   </tr>
 </table>
 
-
+프로젝트 명: CarInfo Hub for Business
 ## 📖 프로젝트 목표
 `CarInfo Hub for Business`는  
 전국 시·도별·형태별 자동차 등록 현황 및 전기·비전기차 등록 데이터를 한곳에 모아, 영업·마케팅·전략 기획팀이 데이터 중심의 비즈니스 인사이트를 빠르고 효율적으로 얻을 수 있도록 돕는 웹 플랫폼입니다.
