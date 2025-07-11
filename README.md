@@ -40,7 +40,7 @@ Team Noesis
   </tr>
 </table>
 
-프로젝트 명: CarInfo Hub for Business
+## 프로젝트 명: CarInfo Hub for Business
 ## 📖 프로젝트 목표
 `CarInfo Hub for Business`는  
 전국 시·도별·형태별 자동차 등록 현황 및 전기·비전기차 등록 데이터를 한곳에 모아, 영업·마케팅·전략 기획팀이 데이터 중심의 비즈니스 인사이트를 빠르고 효율적으로 얻을 수 있도록 돕는 웹 플랫폼입니다.
