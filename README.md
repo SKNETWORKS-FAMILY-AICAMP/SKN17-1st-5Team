@@ -1,14 +1,11 @@
 # SKN17-1st-5Team
 
-# CarInfo Hub for Business
-
-
 ## 팀 소개
 <h1 align="center">
   <img src="https://media.discordapp.net/attachments/1390491233238909031/1391693899155898519/noesis_logo_under1mb.png?ex=687170b1&is=68701f31&hm=80eb1a399837099700d5a923c378cbcead7cb3646320afba26ce2e0fd4b331a1&=&format=webp&quality=lossless&width=640&height=640" width="30" alt="Noesis 로고" style="vertical-align:middle; margin-right:10px;"/>
 Team Noesis
 </h1>
-
+# 프로젝트 명: CarInfo Hub for Business
 <table align="center">
  <tr>
     <td align="center" style="padding:11px;">
