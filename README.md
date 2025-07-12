@@ -129,6 +129,17 @@ Team Noesis
   </details>
 
 ## 🖥️수행 결과
+<img width="1728" height="868" alt="스크린샷 2025-07-11 오후 5 42 49" src="https://github.com/user-attachments/assets/63d30af5-98b1-4aec-b354-c1a3a3a8bc19" />
+<img width="1728" height="879" alt="스크린샷 2025-07-11 오후 5 43 05" src="https://github.com/user-attachments/assets/25f557a3-4484-4982-a03b-d0dc1ecf8314" />
+<img width="1728" height="879" alt="스크린샷 2025-07-11 오후 5 45 06" src="https://github.com/user-attachments/assets/c9edd996-95ee-4e0b-a67b-8a703a860bed" />
+<img width="948" height="830" alt="스크린샷 2025-07-11 오후 5 44 44" src="https://github.com/user-attachments/assets/44ac3b99-dcb8-469f-9a81-506d68ba3df7" />
+<img width="1728" height="842" alt="스크린샷 2025-07-11 오후 5 44 31" src="https://github.com/user-attachments/assets/63aa3d56-1eef-4a3c-b4ad-9ad3e034f9f9" />
+<img width="1728" height="860" alt="스크린샷 2025-07-11 오후 5 44 21" src="https://github.com/user-attachments/assets/e62abf26-844f-4187-b80f-415349b2fb06" />
+<img width="1029" height="708" alt="스크린샷 2025-07-11 오후 5 44 13" src="https://github.com/user-attachments/assets/83ed2b7f-a937-437a-a26d-af25aa2df1e7" />
+<img width="1728" height="873" alt="스크린샷 2025-07-11 오후 5 43 26" src="https://github.com/user-attachments/assets/d66298f3-2366-4b1f-881d-2d2791eb0e0d" />
+<img width="1728" height="876" alt="스크린샷 2025-07-11 오후 5 43 15" src="https://github.com/user-attachments/assets/f6f4259b-be2e-410a-9d7c-c76136c6b836" />
+
+
 
 ## 📋한줄 회고 
 - **김태연**
