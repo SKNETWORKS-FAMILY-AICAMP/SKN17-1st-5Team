@@ -107,7 +107,8 @@ Team Noesis
 
 
 ## 📈Gantt chart
-<img width="824" height="278" alt="image" src="https://github.com/user-attachments/assets/404df7c4-0e74-498a-9ab5-c9fe2ee66f0a" />
+<img width="808" height="259" alt="image" src="https://github.com/user-attachments/assets/6ca88b21-159e-4d06-a8b2-c442cd63624e" />
+
 
 ## 📋WBS
 <img width="982" height="581" alt="image" src="https://github.com/user-attachments/assets/38b1e7c2-d6de-4826-8c70-4efc80024a23" />
